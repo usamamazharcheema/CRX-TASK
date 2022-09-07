@@ -14,6 +14,7 @@ http://localhost:8080/login
 Load the data and then stop the container and run it again. 
 
 First circle.py scripts will be launched
+
 Then PostgresSQL database connection will be created and main.py will be launched. 
 
 
